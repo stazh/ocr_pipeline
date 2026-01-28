@@ -1,6 +1,4 @@
 .venv311/
 models/
 *.DS_Store
-outputs/calamari/
-outputs/ocrd_tesserocr/
-outputs/lines/
+outputs/
